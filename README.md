@@ -1,4 +1,6 @@
 # udpGen
+udpGen can send udp traffic from one client to another client.
+
 udpGen is based on another project. (https://github.com/majek/dump/tree/master/how-to-receive-a-million-packets)
 
 ## Features
